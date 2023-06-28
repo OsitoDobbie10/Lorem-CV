@@ -145,7 +145,14 @@ header{
     text-align: justify;
     font-size: 20px;
   }
-
+.parrafo1>span{
+  text-align: center;
+  font-weight: bold;
+  color:blue;
+}
+.parrafo1>.neo{
+  font-style: oblique;
+}
   article>.love2{
     width: 200px;
     height: 200px;
@@ -156,8 +163,13 @@ header{
 
   article>.parrafo2{
     color: white;
-    text-align: center;
+    text-align: justify;
     font-size: 20px;
+  }
+
+  .parrafo2>span{
+    font-weight: bold;
+    color:blue;
   }
   article>.love3{
     width: 200px;
